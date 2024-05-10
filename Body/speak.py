@@ -27,4 +27,4 @@ def Speak(Text, lang='en'):
         print("Text-to-speech is not supported on this platform.")
 
 
-Speak("Hello, I am Nova. How can I help you?")
+#Speak("Hello, I am Nova. How can I help you?")
