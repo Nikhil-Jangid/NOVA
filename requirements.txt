@@ -16,3 +16,5 @@ numpy
 openai
 deep_translator
 pyttsx3
+selenium
+platform
